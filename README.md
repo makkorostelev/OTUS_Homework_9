@@ -3,7 +3,7 @@
 Project creates a web project and consul cluster, that can manage project.
 
 ### Project Scheme
-![Project Scheme](https://github.com/makkorostelev/OTUS_Homework_9/blob/main/Screenshots/scheme.png)\
+![Project Scheme](https://github.com/makkorostelev/OTUS_Homework_9/blob/main/Screenshots/scheme.png)
 
 ### Prerequisite
 
@@ -14,4 +14,5 @@ Project creates a web project and consul cluster, that can manage project.
 To work with the project you need to enter the commands:
 `vagrant up`
 
+### Consul members
 ![Consul members](https://github.com/makkorostelev/OTUS_Homework_9/blob/main/Screenshots/members.png)
